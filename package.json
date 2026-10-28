@@ -4,7 +4,7 @@
   "description": "Voice Studio — audio-driven launch film (Remotion) and real-time voice agent prototype",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rm0ntoya/voice-studio.git"
+    "url": "https://github.com/rm0ntoya/voice-studio-film.git"
   },
   "license": "UNLICENSED",
   "private": true,
