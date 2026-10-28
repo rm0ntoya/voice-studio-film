@@ -1,0 +1,10 @@
+{
+  "_doc": "Named sync points. Each anchor points at a word index in words.json and an edge (start|end). Shared by the Remotion timeline (TS) and scripts/build_audio.py, so retiming happens in one place.",
+  "brandVoice": { "word": 39, "edge": "start" },
+  "travadaEnd": { "word": 106, "edge": "end" },
+  "provar": { "word": 107, "edge": "start" },
+  "verdadeEnd": { "word": 115, "edge": "end" },
+  "esseAudio": { "word": 116, "edge": "start" },
+  "cem": { "word": 124, "edge": "start" },
+  "speechEnd": { "word": 167, "edge": "end" }
+}

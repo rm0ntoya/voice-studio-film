@@ -1,0 +1,1346 @@
+[
+ {
+  "i": 0,
+  "text": "Deixa",
+  "startMs": 100,
+  "endMs": 260,
+  "score": 0.721,
+  "sentence": 0
+ },
+ {
+  "i": 1,
+  "text": "eu",
+  "startMs": 260,
+  "endMs": 300,
+  "score": 0.087,
+  "sentence": 0
+ },
+ {
+  "i": 2,
+  "text": "te",
+  "startMs": 320,
+  "endMs": 380,
+  "score": 0.868,
+  "sentence": 0
+ },
+ {
+  "i": 3,
+  "text": "contar",
+  "startMs": 435,
+  "endMs": 680,
+  "score": 0.94,
+  "sentence": 0
+ },
+ {
+  "i": 4,
+  "text": "uma",
+  "startMs": 700,
+  "endMs": 820,
+  "score": 0.821,
+  "sentence": 0
+ },
+ {
+  "i": 5,
+  "text": "coisa",
+  "startMs": 925,
+  "endMs": 1260,
+  "score": 0.823,
+  "sentence": 0
+ },
+ {
+  "i": 6,
+  "text": "que",
+  "startMs": 1300,
+  "endMs": 1380,
+  "score": 0.952,
+  "sentence": 0
+ },
+ {
+  "i": 7,
+  "text": "vai",
+  "startMs": 1420,
+  "endMs": 1521,
+  "score": 0.945,
+  "sentence": 0
+ },
+ {
+  "i": 8,
+  "text": "mudar",
+  "startMs": 1600,
+  "endMs": 2041,
+  "score": 0.942,
+  "sentence": 0
+ },
+ {
+  "i": 9,
+  "text": "o",
+  "startMs": 2100,
+  "endMs": 2121,
+  "score": 0.97,
+  "sentence": 0
+ },
+ {
+  "i": 10,
+  "text": "jeito",
+  "startMs": 2220,
+  "endMs": 2521,
+  "score": 0.904,
+  "sentence": 0
+ },
+ {
+  "i": 11,
+  "text": "que",
+  "startMs": 2540,
+  "endMs": 2601,
+  "score": 0.99,
+  "sentence": 0
+ },
+ {
+  "i": 12,
+  "text": "a",
+  "startMs": 2640,
+  "endMs": 2661,
+  "score": 0.976,
+  "sentence": 0
+ },
+ {
+  "i": 13,
+  "text": "sua",
+  "startMs": 2700,
+  "endMs": 2821,
+  "score": 0.909,
+  "sentence": 0
+ },
+ {
+  "i": 14,
+  "text": "loja",
+  "startMs": 2880,
+  "endMs": 3121,
+  "score": 0.944,
+  "sentence": 0
+ },
+ {
+  "i": 15,
+  "text": "atende",
+  "startMs": 3140,
+  "endMs": 3361,
+  "score": 0.597,
+  "sentence": 0
+ },
+ {
+  "i": 16,
+  "text": "os",
+  "startMs": 3380,
+  "endMs": 3441,
+  "score": 0.912,
+  "sentence": 0
+ },
+ {
+  "i": 17,
+  "text": "clientes.",
+  "startMs": 3500,
+  "endMs": 3941,
+  "score": 0.979,
+  "sentence": 0
+ },
+ {
+  "i": 18,
+  "text": "Imagina",
+  "startMs": 4320,
+  "endMs": 4662,
+  "score": 0.999,
+  "sentence": 1
+ },
+ {
+  "i": 19,
+  "text": "ter",
+  "startMs": 4700,
+  "endMs": 4802,
+  "score": 0.666,
+  "sentence": 1
+ },
+ {
+  "i": 20,
+  "text": "um",
+  "startMs": 4800,
+  "endMs": 4862,
+  "score": 0.775,
+  "sentence": 1
+ },
+ {
+  "i": 21,
+  "text": "atendente",
+  "startMs": 4880,
+  "endMs": 5402,
+  "score": 0.999,
+  "sentence": 1
+ },
+ {
+  "i": 22,
+  "text": "que",
+  "startMs": 5450,
+  "endMs": 5522,
+  "score": 0.999,
+  "sentence": 1
+ },
+ {
+  "i": 23,
+  "text": "nunca",
+  "startMs": 5660,
+  "endMs": 5942,
+  "score": 0.999,
+  "sentence": 1
+ },
+ {
+  "i": 24,
+  "text": "dorme,",
+  "startMs": 6020,
+  "endMs": 6382,
+  "score": 0.999,
+  "sentence": 1
+ },
+ {
+  "i": 25,
+  "text": "nunca",
+  "startMs": 6680,
+  "endMs": 6982,
+  "score": 1.0,
+  "sentence": 1
+ },
+ {
+  "i": 26,
+  "text": "perde",
+  "startMs": 7100,
+  "endMs": 7302,
+  "score": 0.99,
+  "sentence": 1
+ },
+ {
+  "i": 27,
+  "text": "uma",
+  "startMs": 7340,
+  "endMs": 7442,
+  "score": 0.998,
+  "sentence": 1
+ },
+ {
+  "i": 28,
+  "text": "venda",
+  "startMs": 7520,
+  "endMs": 7823,
+  "score": 1.0,
+  "sentence": 1
+ },
+ {
+  "i": 29,
+  "text": "e",
+  "startMs": 8080,
+  "endMs": 8103,
+  "score": 0.999,
+  "sentence": 1
+ },
+ {
+  "i": 30,
+  "text": "fala",
+  "startMs": 8200,
+  "endMs": 8403,
+  "score": 1.0,
+  "sentence": 1
+ },
+ {
+  "i": 31,
+  "text": "exatamente",
+  "startMs": 8560,
+  "endMs": 9403,
+  "score": 0.998,
+  "sentence": 1
+ },
+ {
+  "i": 32,
+  "text": "como",
+  "startMs": 9440,
+  "endMs": 9583,
+  "score": 0.997,
+  "sentence": 1
+ },
+ {
+  "i": 33,
+  "text": "a",
+  "startMs": 9620,
+  "endMs": 9643,
+  "score": 0.995,
+  "sentence": 1
+ },
+ {
+  "i": 34,
+  "text": "sua",
+  "startMs": 9680,
+  "endMs": 9783,
+  "score": 0.94,
+  "sentence": 1
+ },
+ {
+  "i": 35,
+  "text": "equipe.",
+  "startMs": 9800,
+  "endMs": 10163,
+  "score": 0.999,
+  "sentence": 1
+ },
+ {
+  "i": 36,
+  "text": "Esse",
+  "startMs": 10560,
+  "endMs": 10884,
+  "score": 0.985,
+  "sentence": 2
+ },
+ {
+  "i": 37,
+  "text": "é",
+  "startMs": 11040,
+  "endMs": 11064,
+  "score": 0.995,
+  "sentence": 2
+ },
+ {
+  "i": 38,
+  "text": "o",
+  "startMs": 11140,
+  "endMs": 11164,
+  "score": 0.996,
+  "sentence": 2
+ },
+ {
+  "i": 39,
+  "text": "Voice",
+  "startMs": 11300,
+  "endMs": 11644,
+  "score": 0.653,
+  "sentence": 2
+ },
+ {
+  "i": 40,
+  "text": "Studio.",
+  "startMs": 11680,
+  "endMs": 12104,
+  "score": 0.999,
+  "sentence": 2
+ },
+ {
+  "i": 41,
+  "text": "Com",
+  "startMs": 12430,
+  "endMs": 12544,
+  "score": 0.999,
+  "sentence": 3
+ },
+ {
+  "i": 42,
+  "text": "ele,",
+  "startMs": 12640,
+  "endMs": 12824,
+  "score": 0.999,
+  "sentence": 3
+ },
+ {
+  "i": 43,
+  "text": "você",
+  "startMs": 13050,
+  "endMs": 13224,
+  "score": 1.0,
+  "sentence": 3
+ },
+ {
+  "i": 44,
+  "text": "cria",
+  "startMs": 13300,
+  "endMs": 13464,
+  "score": 0.959,
+  "sentence": 3
+ },
+ {
+  "i": 45,
+  "text": "um",
+  "startMs": 13480,
+  "endMs": 13544,
+  "score": 0.904,
+  "sentence": 3
+ },
+ {
+  "i": 46,
+  "text": "assistente",
+  "startMs": 13560,
+  "endMs": 14105,
+  "score": 0.996,
+  "sentence": 3
+ },
+ {
+  "i": 47,
+  "text": "de",
+  "startMs": 14140,
+  "endMs": 14185,
+  "score": 0.996,
+  "sentence": 3
+ },
+ {
+  "i": 48,
+  "text": "inteligência",
+  "startMs": 14220,
+  "endMs": 14705,
+  "score": 0.972,
+  "sentence": 3
+ },
+ {
+  "i": 49,
+  "text": "artificial",
+  "startMs": 14720,
+  "endMs": 15225,
+  "score": 0.994,
+  "sentence": 3
+ },
+ {
+  "i": 50,
+  "text": "para",
+  "startMs": 15270,
+  "endMs": 15365,
+  "score": 0.485,
+  "sentence": 3
+ },
+ {
+  "i": 51,
+  "text": "o",
+  "startMs": 15365,
+  "endMs": 15385,
+  "score": 0.992,
+  "sentence": 3
+ },
+ {
+  "i": 52,
+  "text": "seu",
+  "startMs": 15405,
+  "endMs": 15505,
+  "score": 0.999,
+  "sentence": 3
+ },
+ {
+  "i": 53,
+  "text": "comércio",
+  "startMs": 15545,
+  "endMs": 16025,
+  "score": 1.0,
+  "sentence": 3
+ },
+ {
+  "i": 54,
+  "text": "que",
+  "startMs": 16270,
+  "endMs": 16305,
+  "score": 0.999,
+  "sentence": 4
+ },
+ {
+  "i": 55,
+  "text": "atende",
+  "startMs": 16345,
+  "endMs": 16585,
+  "score": 0.989,
+  "sentence": 4
+ },
+ {
+  "i": 56,
+  "text": "os",
+  "startMs": 16625,
+  "endMs": 16665,
+  "score": 0.901,
+  "sentence": 4
+ },
+ {
+  "i": 57,
+  "text": "seus",
+  "startMs": 16685,
+  "endMs": 16826,
+  "score": 0.984,
+  "sentence": 4
+ },
+ {
+  "i": 58,
+  "text": "clientes",
+  "startMs": 16880,
+  "endMs": 17226,
+  "score": 0.968,
+  "sentence": 4
+ },
+ {
+  "i": 59,
+  "text": "de",
+  "startMs": 17285,
+  "endMs": 17386,
+  "score": 0.987,
+  "sentence": 4
+ },
+ {
+  "i": 60,
+  "text": "verdade,",
+  "startMs": 17425,
+  "endMs": 17966,
+  "score": 0.999,
+  "sentence": 4
+ },
+ {
+  "i": 61,
+  "text": "por",
+  "startMs": 18205,
+  "endMs": 18306,
+  "score": 0.999,
+  "sentence": 4
+ },
+ {
+  "i": 62,
+  "text": "mensagem,",
+  "startMs": 18325,
+  "endMs": 18986,
+  "score": 0.987,
+  "sentence": 4
+ },
+ {
+  "i": 63,
+  "text": "no",
+  "startMs": 19045,
+  "endMs": 19106,
+  "score": 0.996,
+  "sentence": 4
+ },
+ {
+  "i": 64,
+  "text": "WhatsApp",
+  "startMs": 19125,
+  "endMs": 19646,
+  "score": 0.521,
+  "sentence": 4
+ },
+ {
+  "i": 65,
+  "text": "e",
+  "startMs": 20005,
+  "endMs": 20027,
+  "score": 0.997,
+  "sentence": 4
+ },
+ {
+  "i": 66,
+  "text": "agora",
+  "startMs": 20105,
+  "endMs": 20487,
+  "score": 0.998,
+  "sentence": 4
+ },
+ {
+  "i": 67,
+  "text": "com",
+  "startMs": 20670,
+  "endMs": 20807,
+  "score": 0.992,
+  "sentence": 4
+ },
+ {
+  "i": 68,
+  "text": "voz.",
+  "startMs": 20885,
+  "endMs": 21227,
+  "score": 0.977,
+  "sentence": 4
+ },
+ {
+  "i": 69,
+  "text": "Isso",
+  "startMs": 21605,
+  "endMs": 21787,
+  "score": 0.999,
+  "sentence": 5
+ },
+ {
+  "i": 70,
+  "text": "mesmo,",
+  "startMs": 21825,
+  "endMs": 22187,
+  "score": 0.999,
+  "sentence": 5
+ },
+ {
+  "i": 71,
+  "text": "a",
+  "startMs": 22505,
+  "endMs": 22527,
+  "score": 0.996,
+  "sentence": 5
+ },
+ {
+  "i": 72,
+  "text": "IA",
+  "startMs": 22625,
+  "endMs": 22808,
+  "score": 0.991,
+  "sentence": 5
+ },
+ {
+  "i": 73,
+  "text": "conversa",
+  "startMs": 22935,
+  "endMs": 23388,
+  "score": 1.0,
+  "sentence": 5
+ },
+ {
+  "i": 74,
+  "text": "falando,",
+  "startMs": 23540,
+  "endMs": 24068,
+  "score": 1.0,
+  "sentence": 5
+ },
+ {
+  "i": 75,
+  "text": "usando",
+  "startMs": 24345,
+  "endMs": 24588,
+  "score": 0.992,
+  "sentence": 5
+ },
+ {
+  "i": 76,
+  "text": "a",
+  "startMs": 24625,
+  "endMs": 24648,
+  "score": 0.997,
+  "sentence": 5
+ },
+ {
+  "i": 77,
+  "text": "voz",
+  "startMs": 24745,
+  "endMs": 24988,
+  "score": 0.999,
+  "sentence": 5
+ },
+ {
+  "i": 78,
+  "text": "de",
+  "startMs": 25045,
+  "endMs": 25108,
+  "score": 0.996,
+  "sentence": 5
+ },
+ {
+  "i": 79,
+  "text": "uma",
+  "startMs": 25125,
+  "endMs": 25228,
+  "score": 0.999,
+  "sentence": 5
+ },
+ {
+  "i": 80,
+  "text": "das",
+  "startMs": 25265,
+  "endMs": 25368,
+  "score": 0.998,
+  "sentence": 5
+ },
+ {
+  "i": 81,
+  "text": "suas",
+  "startMs": 25405,
+  "endMs": 25548,
+  "score": 0.999,
+  "sentence": 5
+ },
+ {
+  "i": 82,
+  "text": "atendentes.",
+  "startMs": 25585,
+  "endMs": 26149,
+  "score": 0.996,
+  "sentence": 5
+ },
+ {
+  "i": 83,
+  "text": "E",
+  "startMs": 26465,
+  "endMs": 26489,
+  "score": 0.997,
+  "sentence": 6
+ },
+ {
+  "i": 84,
+  "text": "tem",
+  "startMs": 26570,
+  "endMs": 26689,
+  "score": 0.994,
+  "sentence": 6
+ },
+ {
+  "i": 85,
+  "text": "mais,",
+  "startMs": 26725,
+  "endMs": 27049,
+  "score": 1.0,
+  "sentence": 6
+ },
+ {
+  "i": 86,
+  "text": "quando",
+  "startMs": 27345,
+  "endMs": 27509,
+  "score": 0.998,
+  "sentence": 6
+ },
+ {
+  "i": 87,
+  "text": "o",
+  "startMs": 27525,
+  "endMs": 27569,
+  "score": 0.81,
+  "sentence": 6
+ },
+ {
+  "i": 88,
+  "text": "cliente",
+  "startMs": 27570,
+  "endMs": 27869,
+  "score": 0.999,
+  "sentence": 6
+ },
+ {
+  "i": 89,
+  "text": "liga",
+  "startMs": 27965,
+  "endMs": 28169,
+  "score": 0.999,
+  "sentence": 6
+ },
+ {
+  "i": 90,
+  "text": "para",
+  "startMs": 28215,
+  "endMs": 28309,
+  "score": 0.708,
+  "sentence": 6
+ },
+ {
+  "i": 91,
+  "text": "a",
+  "startMs": 28325,
+  "endMs": 28349,
+  "score": 0.411,
+  "sentence": 6
+ },
+ {
+  "i": 92,
+  "text": "sua",
+  "startMs": 28365,
+  "endMs": 28489,
+  "score": 0.999,
+  "sentence": 6
+ },
+ {
+  "i": 93,
+  "text": "loja,",
+  "startMs": 28545,
+  "endMs": 28870,
+  "score": 0.986,
+  "sentence": 6
+ },
+ {
+  "i": 94,
+  "text": "quem",
+  "startMs": 29025,
+  "endMs": 29150,
+  "score": 0.995,
+  "sentence": 6
+ },
+ {
+  "i": 95,
+  "text": "atende",
+  "startMs": 29185,
+  "endMs": 29610,
+  "score": 0.998,
+  "sentence": 6
+ },
+ {
+  "i": 96,
+  "text": "é",
+  "startMs": 29745,
+  "endMs": 29770,
+  "score": 0.989,
+  "sentence": 6
+ },
+ {
+  "i": 97,
+  "text": "ela,",
+  "startMs": 29945,
+  "endMs": 30170,
+  "score": 0.983,
+  "sentence": 6
+ },
+ {
+  "i": 98,
+  "text": "natural,",
+  "startMs": 30510,
+  "endMs": 31050,
+  "score": 0.999,
+  "sentence": 6
+ },
+ {
+  "i": 99,
+  "text": "na",
+  "startMs": 31230,
+  "endMs": 31330,
+  "score": 0.999,
+  "sentence": 6
+ },
+ {
+  "i": 100,
+  "text": "hora,",
+  "startMs": 31430,
+  "endMs": 31710,
+  "score": 0.997,
+  "sentence": 6
+ },
+ {
+  "i": 101,
+  "text": "sem",
+  "startMs": 31930,
+  "endMs": 32051,
+  "score": 0.997,
+  "sentence": 6
+ },
+ {
+  "i": 102,
+  "text": "robô,",
+  "startMs": 32110,
+  "endMs": 32391,
+  "score": 0.998,
+  "sentence": 6
+ },
+ {
+  "i": 103,
+  "text": "sem",
+  "startMs": 32630,
+  "endMs": 32751,
+  "score": 0.999,
+  "sentence": 6
+ },
+ {
+  "i": 104,
+  "text": "aquela",
+  "startMs": 32790,
+  "endMs": 33011,
+  "score": 0.989,
+  "sentence": 6
+ },
+ {
+  "i": 105,
+  "text": "voz",
+  "startMs": 33050,
+  "endMs": 33211,
+  "score": 0.995,
+  "sentence": 6
+ },
+ {
+  "i": 106,
+  "text": "travada.",
+  "startMs": 33255,
+  "endMs": 33771,
+  "score": 0.973,
+  "sentence": 6
+ },
+ {
+  "i": 107,
+  "text": "E",
+  "startMs": 34070,
+  "endMs": 34091,
+  "score": 0.998,
+  "sentence": 7
+ },
+ {
+  "i": 108,
+  "text": "para",
+  "startMs": 34130,
+  "endMs": 34251,
+  "score": 0.979,
+  "sentence": 7
+ },
+ {
+  "i": 109,
+  "text": "te",
+  "startMs": 34290,
+  "endMs": 34351,
+  "score": 0.898,
+  "sentence": 7
+ },
+ {
+  "i": 110,
+  "text": "provar",
+  "startMs": 34380,
+  "endMs": 34711,
+  "score": 0.954,
+  "sentence": 7
+ },
+ {
+  "i": 111,
+  "text": "que",
+  "startMs": 34780,
+  "endMs": 34811,
+  "score": 0.984,
+  "sentence": 7
+ },
+ {
+  "i": 112,
+  "text": "isso",
+  "startMs": 34850,
+  "endMs": 34972,
+  "score": 0.978,
+  "sentence": 7
+ },
+ {
+  "i": 113,
+  "text": "é",
+  "startMs": 35010,
+  "endMs": 35032,
+  "score": 0.991,
+  "sentence": 7
+ },
+ {
+  "i": 114,
+  "text": "de",
+  "startMs": 35090,
+  "endMs": 35172,
+  "score": 0.956,
+  "sentence": 7
+ },
+ {
+  "i": 115,
+  "text": "verdade,",
+  "startMs": 35210,
+  "endMs": 35812,
+  "score": 0.997,
+  "sentence": 7
+ },
+ {
+  "i": 116,
+  "text": "esse",
+  "startMs": 36390,
+  "endMs": 36572,
+  "score": 0.992,
+  "sentence": 7
+ },
+ {
+  "i": 117,
+  "text": "áudio",
+  "startMs": 36630,
+  "endMs": 36832,
+  "score": 0.663,
+  "sentence": 7
+ },
+ {
+  "i": 118,
+  "text": "que",
+  "startMs": 36855,
+  "endMs": 36912,
+  "score": 0.997,
+  "sentence": 7
+ },
+ {
+  "i": 119,
+  "text": "você",
+  "startMs": 36930,
+  "endMs": 37092,
+  "score": 0.995,
+  "sentence": 7
+ },
+ {
+  "i": 120,
+  "text": "está",
+  "startMs": 37110,
+  "endMs": 37192,
+  "score": 0.749,
+  "sentence": 7
+ },
+ {
+  "i": 121,
+  "text": "escutando",
+  "startMs": 37230,
+  "endMs": 37592,
+  "score": 0.997,
+  "sentence": 7
+ },
+ {
+  "i": 122,
+  "text": "agora",
+  "startMs": 37630,
+  "endMs": 37953,
+  "score": 0.998,
+  "sentence": 7
+ },
+ {
+  "i": 123,
+  "text": "foi",
+  "startMs": 38300,
+  "endMs": 38433,
+  "score": 0.999,
+  "sentence": 7
+ },
+ {
+  "i": 124,
+  "text": "100%",
+  "startMs": 38650,
+  "endMs": 39433,
+  "score": 0.793,
+  "sentence": 7
+ },
+ {
+  "i": 125,
+  "text": "gerado",
+  "startMs": 39470,
+  "endMs": 39833,
+  "score": 0.993,
+  "sentence": 7
+ },
+ {
+  "i": 126,
+  "text": "por",
+  "startMs": 39870,
+  "endMs": 39973,
+  "score": 0.998,
+  "sentence": 7
+ },
+ {
+  "i": 127,
+  "text": "inteligência",
+  "startMs": 40010,
+  "endMs": 40473,
+  "score": 0.959,
+  "sentence": 7
+ },
+ {
+  "i": 128,
+  "text": "artificial.",
+  "startMs": 40490,
+  "endMs": 41054,
+  "score": 0.999,
+  "sentence": 7
+ },
+ {
+  "i": 129,
+  "text": "Eu",
+  "startMs": 41330,
+  "endMs": 41394,
+  "score": 0.999,
+  "sentence": 8
+ },
+ {
+  "i": 130,
+  "text": "não",
+  "startMs": 41410,
+  "endMs": 41494,
+  "score": 0.973,
+  "sentence": 8
+ },
+ {
+  "i": 131,
+  "text": "gravei",
+  "startMs": 41510,
+  "endMs": 41794,
+  "score": 0.991,
+  "sentence": 8
+ },
+ {
+  "i": 132,
+  "text": "nada,",
+  "startMs": 41850,
+  "endMs": 42134,
+  "score": 1.0,
+  "sentence": 8
+ },
+ {
+  "i": 133,
+  "text": "eu",
+  "startMs": 42470,
+  "endMs": 42554,
+  "score": 0.999,
+  "sentence": 8
+ },
+ {
+  "i": 134,
+  "text": "pedi",
+  "startMs": 42580,
+  "endMs": 42754,
+  "score": 0.983,
+  "sentence": 8
+ },
+ {
+  "i": 135,
+  "text": "para",
+  "startMs": 42790,
+  "endMs": 42914,
+  "score": 0.73,
+  "sentence": 8
+ },
+ {
+  "i": 136,
+  "text": "uma",
+  "startMs": 42950,
+  "endMs": 43054,
+  "score": 0.996,
+  "sentence": 8
+ },
+ {
+  "i": 137,
+  "text": "IA",
+  "startMs": 43130,
+  "endMs": 43294,
+  "score": 0.965,
+  "sentence": 8
+ },
+ {
+  "i": 138,
+  "text": "escrever",
+  "startMs": 43390,
+  "endMs": 43734,
+  "score": 0.902,
+  "sentence": 8
+ },
+ {
+  "i": 139,
+  "text": "esse",
+  "startMs": 43770,
+  "endMs": 43914,
+  "score": 0.949,
+  "sentence": 8
+ },
+ {
+  "i": 140,
+  "text": "texto,",
+  "startMs": 43980,
+  "endMs": 44335,
+  "score": 0.837,
+  "sentence": 8
+ },
+ {
+  "i": 141,
+  "text": "joguei",
+  "startMs": 44530,
+  "endMs": 44895,
+  "score": 0.993,
+  "sentence": 8
+ },
+ {
+  "i": 142,
+  "text": "aqui",
+  "startMs": 44910,
+  "endMs": 45055,
+  "score": 0.752,
+  "sentence": 8
+ },
+ {
+  "i": 143,
+  "text": "no",
+  "startMs": 45090,
+  "endMs": 45155,
+  "score": 0.997,
+  "sentence": 8
+ },
+ {
+  "i": 144,
+  "text": "Voice",
+  "startMs": 45190,
+  "endMs": 45455,
+  "score": 0.615,
+  "sentence": 8
+ },
+ {
+  "i": 145,
+  "text": "Studio",
+  "startMs": 45475,
+  "endMs": 45835,
+  "score": 0.999,
+  "sentence": 8
+ },
+ {
+  "i": 146,
+  "text": "e",
+  "startMs": 46095,
+  "endMs": 46115,
+  "score": 0.998,
+  "sentence": 8
+ },
+ {
+  "i": 147,
+  "text": "mandei",
+  "startMs": 46155,
+  "endMs": 46375,
+  "score": 0.966,
+  "sentence": 8
+ },
+ {
+  "i": 148,
+  "text": "gerar",
+  "startMs": 46415,
+  "endMs": 46635,
+  "score": 0.791,
+  "sentence": 8
+ },
+ {
+  "i": 149,
+  "text": "com",
+  "startMs": 46690,
+  "endMs": 46715,
+  "score": 0.86,
+  "sentence": 8
+ },
+ {
+  "i": 150,
+  "text": "a",
+  "startMs": 46755,
+  "endMs": 46775,
+  "score": 0.989,
+  "sentence": 8
+ },
+ {
+  "i": 151,
+  "text": "minha",
+  "startMs": 46775,
+  "endMs": 46915,
+  "score": 0.99,
+  "sentence": 8
+ },
+ {
+  "i": 152,
+  "text": "voz.",
+  "startMs": 46955,
+  "endMs": 47236,
+  "score": 0.999,
+  "sentence": 8
+ },
+ {
+  "i": 153,
+  "text": "E",
+  "startMs": 47595,
+  "endMs": 47616,
+  "score": 0.989,
+  "sentence": 9
+ },
+ {
+  "i": 154,
+  "text": "ficou",
+  "startMs": 47675,
+  "endMs": 47956,
+  "score": 0.998,
+  "sentence": 9
+ },
+ {
+  "i": 155,
+  "text": "perfeito,",
+  "startMs": 48010,
+  "endMs": 48576,
+  "score": 0.993,
+  "sentence": 9
+ },
+ {
+  "i": 156,
+  "text": "né?",
+  "startMs": 48635,
+  "endMs": 48716,
+  "score": 0.497,
+  "sentence": 9
+ },
+ {
+  "i": 157,
+  "text": "Voice",
+  "startMs": 49175,
+  "endMs": 49496,
+  "score": 0.617,
+  "sentence": 10
+ },
+ {
+  "i": 158,
+  "text": "Studio,",
+  "startMs": 49555,
+  "endMs": 49936,
+  "score": 0.994,
+  "sentence": 10
+ },
+ {
+  "i": 159,
+  "text": "a",
+  "startMs": 50215,
+  "endMs": 50237,
+  "score": 0.993,
+  "sentence": 10
+ },
+ {
+  "i": 160,
+  "text": "sua",
+  "startMs": 50355,
+  "endMs": 50537,
+  "score": 0.955,
+  "sentence": 10
+ },
+ {
+  "i": 161,
+  "text": "voz",
+  "startMs": 50595,
+  "endMs": 50897,
+  "score": 0.998,
+  "sentence": 10
+ },
+ {
+  "i": 162,
+  "text": "atendendo",
+  "startMs": 51015,
+  "endMs": 51417,
+  "score": 0.997,
+  "sentence": 10
+ },
+ {
+  "i": 163,
+  "text": "por",
+  "startMs": 51460,
+  "endMs": 51577,
+  "score": 0.996,
+  "sentence": 10
+ },
+ {
+  "i": 164,
+  "text": "você",
+  "startMs": 51615,
+  "endMs": 51957,
+  "score": 0.998,
+  "sentence": 10
+ },
+ {
+  "i": 165,
+  "text": "o",
+  "startMs": 52235,
+  "endMs": 52257,
+  "score": 0.995,
+  "sentence": 10
+ },
+ {
+  "i": 166,
+  "text": "dia",
+  "startMs": 52395,
+  "endMs": 52577,
+  "score": 0.573,
+  "sentence": 10
+ },
+ {
+  "i": 167,
+  "text": "inteiro.",
+  "startMs": 52595,
+  "endMs": 53037,
+  "score": 0.833,
+  "sentence": 10
+ }
+]
