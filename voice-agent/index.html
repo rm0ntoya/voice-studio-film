@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Voice Test</title>
+  <style>
+    body { margin: 0; font: 16px/1.5 system-ui, sans-serif; background: #111; color: #eee; }
+    main { max-width: 720px; margin: 0 auto; padding: 24px 16px; }
+    header { display: flex; align-items: center; gap: 12px; }
+    #status { flex: 1; color: #aaa; }
+    #status.speaking { color: #ff6a3d; }
+    #status.listening { color: #5fd38d; }
+    button { font: inherit; padding: 8px 16px; border: 0; border-radius: 8px; background: #ff6a3d; color: #111; cursor: pointer; }
+    #log p { margin: 10px 0; }
+    .user { color: #9ecbff; }
+    .agent s { color: #777; }
+    .error { color: #ff6b6b; }
+  </style>
+</head>
+<body>
+  <main>
+    <header><span id="status">Iniciando…</span><button id="toggle" hidden>Iniciar</button></header>
+    <div id="log"></div>
+  </main>
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
