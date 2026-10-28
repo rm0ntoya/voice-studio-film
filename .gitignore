@@ -1,7 +1,29 @@
-node_modules
-dist
-.DS_Store
-.env
+# dependencies
+node_modules/
 
-# Ignore the output video from Git but not videos you import into src/.
-out
+# build & render output
+dist/
+out/
+work/
+*-output-*/
+
+# environment & local state (never commit credentials)
+.env
+.env.*
+!.env.example
+.state.json
+
+# licensed / third-party source audio (see README → Assets)
+assets/
+public/**/music-bed.wav
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
+*.log

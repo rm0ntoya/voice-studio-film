@@ -1,18 +1,31 @@
 {
-  "name": "scaffold",
+  "name": "voice-studio",
   "version": "1.0.0",
-  "description": "My Remotion video",
-  "repository": {},
+  "description": "Voice Studio — audio-driven launch film (Remotion) and real-time voice agent prototype",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rm0ntoya/voice-studio.git"
+  },
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.534",
+    "@remotion/google-fonts": "4.0.534",
+    "@remotion/light-leaks": "4.0.534",
+    "@remotion/media": "4.0.534",
+    "@remotion/media-utils": "4.0.534",
+    "@remotion/noise": "4.0.534",
+    "@remotion/paths": "4.0.534",
+    "@remotion/shapes": "4.0.534",
+    "@remotion/transitions": "4.0.534",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.534"
   },
   "devDependencies": {
+    "@remotion/bundler": "^4.0.534",
     "@remotion/eslint-config-flat": "4.0.534",
+    "@remotion/renderer": "^4.0.534",
     "@types/react": "19.2.7",
     "@types/web": "0.0.166",
     "eslint": "9.39.5",
@@ -24,5 +37,6 @@
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc"
-  }
+  },
+  "author": "Ruan Pablo"
 }
