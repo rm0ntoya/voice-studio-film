@@ -1,0 +1,9 @@
+{
+ "_doc": "Named sync points (word index + edge) shared by scripts/build_audio_stories.py and the Stories timeline.",
+ "brandVoice": { "word": 27, "edge": "start" },
+ "sweepStart": { "word": 66, "edge": "start" },
+ "agoraStart": { "word": 73, "edge": "start" },
+ "agoraEnd": { "word": 73, "edge": "end" },
+ "cem": { "word": 75, "edge": "start" },
+ "speechEnd": { "word": 113, "edge": "end" }
+}
